@@ -1,1 +1,2 @@
 welcome message
+If you want to save your changes and quit, press Esc then type :wq and hit Enter or ↵ or on Macs, Return .
